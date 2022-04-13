@@ -1,0 +1,14 @@
+{
+  "name": "proxmark3-web",
+  "version": "0.0.0",
+  "description": "Proxmark3 web",
+  "main": "src/index.js",
+  "repository": "git@github.com:nemanjan00/proxmark3-web.git",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-proxmark3": "^0.0.6"
+  }
+}
